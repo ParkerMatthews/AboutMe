@@ -3,9 +3,14 @@
 ---
 # Summary
 
-[I have a new home]: https://redbirdrants.com/
+[I have a new home]
 
-A computer scientist is a professional who studies and develops technology related to computing, including software, hardware, algorithms, and artificial intelligence. 
+A computer scientist is a professional who studies and develops technology related to computing, including software, hardware, algorithms, and artificial intelligence.
+
+[1]: https://en.wikipedia.org/wiki/Abraham_Lincoln
+[2]: https://en.wikipedia.org/wiki/Elon_Musk
+[3]: https://en.wikipedia.org/wiki/Shohei_Ohtani
+
 # Hobbies
 My hobbies include
 - baseball/MLB
@@ -31,5 +36,14 @@ __What are you__ in this life?
 ## My Favorite Websites
 
 [MLB Trade Rumors](https://www.mlbtraderumors.com)
+
 [Cardinal Chatter](https://www.mlbrtraderumors.com/st-louis-cardinals "St. Louis Cardinals Rumors")
+
 [I'm being tagged][I have a NEW HOME]
+
+## Persons of Interest
+
+[Abraham Lincoln][1]<br>
+[Elon Musk][2]<br>
+[Shohei Ohtani][3]<br>
+
