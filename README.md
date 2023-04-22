@@ -3,7 +3,7 @@
 ---
 # Summary
 
-[I have a new home]
+[I have a new home]: https://redbirdrants.com/
 
 A computer scientist is a professional who studies and develops technology related to computing, including software, hardware, algorithms, and artificial intelligence.
 
@@ -39,7 +39,7 @@ __What are you__ in this life?
 
 [Cardinal Chatter](https://www.mlbrtraderumors.com/st-louis-cardinals "St. Louis Cardinals Rumors")
 
-[I'm being tagged][I have a NEW HOME]
+[I'm being tagged][I have a new home]
 
 ## Persons of Interest
 
