@@ -46,12 +46,14 @@ __What are you__ in this life?
 [Abraham Lincoln][1]<br>
 [Elon Musk][2]<br>
 [Shohei Ohtani][3]<br>
+<img src="https://github.com/ParkerMatthews/AboutMe/blob/main/img/Shohei.jpg" height="100px"
+ width="200px">
 
 ## Favorite Terms 
 
-| Terms|
-|:-|:----:|
-| Vivid | Powerful, intensice color; Clear precise language | 
-| Oriflamme | A knight's battle standard | 
-| Eccentirc | Of unconvential and slightly strange character | 
-| Supine | lying face upward; failing to act |
+| Terms| Definitions | My Meaning 
+|:-|:----:| ---:|
+| Vivid | Powerful, intensice color; Clear precise language | Invoking strong emotion in | 
+| Oriflamme | A knight's battle standard | Your logo , icon | 
+| Eccentirc | Of unconvential and slightly strange character | Someone who is odd but cool | 
+| Supine | lying face upward; failing to act | other term for coward |
