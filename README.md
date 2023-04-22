@@ -46,4 +46,5 @@ __What are you__ in this life?
 [Abraham Lincoln][1]<br>
 [Elon Musk][2]<br>
 [Shohei Ohtani][3]<br>
+<img src="https://github.com/ParkerMatthews/AboutMe/blob/main/img/Shohei.jpg height="100px" width="200px">
 
