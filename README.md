@@ -43,11 +43,18 @@ __What are you__ in this life?
 
 ## Persons of Interest
 
-[Abraham Lincoln][1]<br>
-[Elon Musk][2]<br>
-[Shohei Ohtani][3]<br>
+[Abraham Lincoln][1]<br><kbd>
+<img src="https://github.com/ParkerMatthews/AboutMe/blob/main/img/Abraham_Lincoln.jpg" height="100px"
+ width="200px">
+ </kdb><br>
+[Elon Musk][2]<br><kbd>
+<img src="https://github.com/ParkerMatthews/AboutMe/blob/main/img/Elon_Musk.jpg" height="100px"
+ width="200px">
+ </kbd><br>
+[Shohei Ohtani][3]<br><kbd>
 <img src="https://github.com/ParkerMatthews/AboutMe/blob/main/img/Shohei.jpg" height="100px"
  width="200px">
+ <kbd><br>
 
 ## Favorite Terms 
 
