@@ -13,14 +13,14 @@ My name is Parker Matthews. I'm orgianlly from Columbus Ohio , but moved to sout
 
 # Hobbies
 My hobbies include
-- baseball/MLB
-+ modding 
-* reading histriocal novles
+- Cars
++ Playing Video Games 
+* Running / Hiking
 
-My nighttime routine includes
-1. Shower
-2. Fix coffee for the morning.
-3. Write my thoughts for 30 minutes.
+My education goals
+1. Optain a college degree , wheter Assocaite or Bachelors.
+2. Take my passion to another education level.
+3. Obtain a college intership to get real industry exposor.
 
 ## My Philosophy 
 *It's not about illtelligence , it's all about persistence*
