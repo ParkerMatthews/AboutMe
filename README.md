@@ -1,6 +1,6 @@
 # AboutMe
 ---
----
+
 # Summary
 
 [I have a new home]: https://redbirdrants.com/
