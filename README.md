@@ -25,4 +25,4 @@ My education goals
 ## My Philosophy 
 *It's not about illtelligence , it's all about persistence*
 
-_life is easy if you just let it happen_
+_Strive for balance in all areas of life._
