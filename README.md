@@ -5,7 +5,7 @@
 
 [I have a new home]: https://redbirdrants.com/
 
-My name is Parker Matthews. I'm orgianlly from Columbus Ohio , but moved to southerna indiana during my elementary years. I went to Lynnville Elementary until 6th grade then attended Tecumseh Jr/Sr High School. As some of my personal life I own my own LLC in the state of indiana as a sole proprietor. As of school after Southern Indiana Career & Technical Center I plan to attend University of Soutern Indiana for either CIS or CS for 4 or more years. After that I plan to move out of the Southern Indiana area and move west but not sure yet. Thanks for taking a read.
+"My name is Parker Matthews. I'm originally from Columbus, Ohio, but moved to southern Indiana during my elementary years. I attended Lynnville Elementary until 6th grade, and then I went to Tecumseh Jr/Sr High School. In my personal life, I own my own LLC in the state of Indiana as a sole proprietor. Regarding my education, after attending Southern Indiana Career & Technical Center, I plan to enroll at the University of Southern Indiana for either CIS or CS for four or more years. After completing my education, I intend to move out of the Southern Indiana area and relocate to the west, although I am not sure about the exact location yet. Thanks for taking the time to read."
 
 [1]: https://en.wikipedia.org/wiki/Abraham_Lincoln
 [2]: https://en.wikipedia.org/wiki/Elon_Musk
