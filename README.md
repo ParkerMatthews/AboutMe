@@ -12,12 +12,12 @@ My name is Parker Matthews. I'm originally from Columbus, Ohio, but moved to sou
 [3]: https://en.wikipedia.org/wiki/Shohei_Ohtani
 
 # Hobbies
-My hobbies include
+My hobbies include:
 - Cars
 + Playing Video Games 
 * Running / Hiking 
 
-My education goals
+My education goals:
 1. Optain a college degree , wheter Assocaite or Bachelors.
 2. Take my passion to another education level.
 3. Obtain a college intership to get real industry exposor.
