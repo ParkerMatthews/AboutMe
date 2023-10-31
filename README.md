@@ -15,7 +15,7 @@ My name is Parker Matthews. I'm orgianlly from Columbus Ohio , but moved to sout
 My hobbies include
 - Cars
 + Playing Video Games 
-* Running / Hiking
+* Running / Hiking 
 
 My education goals
 1. Optain a college degree , wheter Assocaite or Bachelors.
